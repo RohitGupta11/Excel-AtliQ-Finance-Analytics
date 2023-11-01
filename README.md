@@ -1,4 +1,11 @@
 # Excel-AtliQ-Finance-Analytics
+This repository contains sales and finance analytics reports, designed to empower businesses in monitoring and evaluating their sales activities and financial performance.
+
+ - **Purpose of finance analytics:** The purpose of finance analytics is to leverage data-driven insights for informed financial decision-making, risk assessment, and performance improvement.
+
+- **Importance of analyzing finance data:** Analyzing finance data is essential for monitoring financial health, making informed business decisions, and ensuring long-term sustainability.
+
+- **Role of reports:** Finance reports serve as crucial tools for summarizing and communicating financial data, facilitating informed decision-making, and maintaining financial transparency within an organization.
 
 
 # Finance Analytics
